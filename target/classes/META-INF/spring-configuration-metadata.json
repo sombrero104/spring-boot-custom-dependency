@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "sombrero.HolomanProperties",
+      "name": "holoman",
+      "type": "sombrero.HolomanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "sombrero.HolomanProperties",
+      "defaultValue": 0,
+      "name": "holoman.howlong",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "sombrero.HolomanProperties",
+      "name": "holoman.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
